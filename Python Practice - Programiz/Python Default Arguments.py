@@ -1,4 +1,4 @@
 def sendMessage(name,message='Welcome to TechFolk'):
-    print('Hello '+name+', '+message)
+    print(f'Hello {name}, {message}')
 
 sendMessage('Koly')

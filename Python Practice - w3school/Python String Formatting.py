@@ -2,5 +2,5 @@ name = 'Dedar'
 age = 20
 city = 'Dhaka'
 
-print('Hi, My name is {}. I am {} years old. I am from {}'.format(name,age,city))
+print(f'Hi, My name is {name}. I am {age} years old. I am from {city}')
 

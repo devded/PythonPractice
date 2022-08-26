@@ -1,2 +1,2 @@
 username = input('Enter Username: ')
-print('Username is '+username)
+print(f'Username is {username}')

@@ -1,8 +1,5 @@
 def checkNumber(num):
-    if num > 0:
-        return ("Number is Positive")
-    else:
-        return ("Number is Negative")
+    return "Number is Positive" if num > 0 else "Number is Negative"
 
 print(checkNumber(10))
 
