@@ -1,4 +1,4 @@
 def helloMessage(name):
-    print('Hello '+name+' Eid Mubarak')
+    print(f'Hello {name} Eid Mubarak')
 
 helloMessage('koly')

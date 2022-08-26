@@ -1,9 +1,6 @@
 n = 10
-i = 0
 sum = 0
 
-while i <= n:
+for _ in range(n + 1):
     sum +=1
-    i += 1
-
 print(sum)
